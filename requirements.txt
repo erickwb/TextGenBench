@@ -1,0 +1,11 @@
+transformers
+torch
+nltk
+pandas
+matplotlib
+argparse
+openai
+huggingface-hub
+accelerate
+sentence-transformers
+rouge-score

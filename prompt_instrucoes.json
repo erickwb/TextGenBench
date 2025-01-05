@@ -1,0 +1,10 @@
+{
+  "prompt": "Era uma vez em um reino distante, onde as pessoas viviam felizes e em paz...",
+  "instrucoes": [
+      "Crie um texto em português baseado no prompt fornecido.",
+      "O texto gerado deve fazer sentido e ter uma narrativa coesa. Evite criar diálogos ou interações entre personagens.",
+      "Não crie poemas, o foco deve ser em um texto narrativo ou descritivo.",
+      "A resposta deve ser relevante para o contexto inicial e não deve divergir do tema proposto."
+  ],
+  "referencia": "Era uma vez em um reino distante, onde as pessoas viviam felizes e em paz, cercadas por vastos campos verdes e florestas mágicas. O sol brilhava radiante no céu, e as crianças corriam pelos campos, rindo e brincando. No centro do reino, havia um castelo majestoso, onde o rei e a rainha governavam com sabedoria e bondade, garantindo harmonia para todos os habitantes."
+}
